@@ -1,0 +1,44 @@
+# --- .NET ---
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.cache
+*.dll
+*.pdb
+*.vshost.*
+*.dbmdl
+
+# --- Build folders ---
+/**/bin/
+/**/obj/
+
+# --- Logs ---
+*.log
+logs/
+
+# --- VS / Rider ---
+.vs/
+.idea/
+
+# --- System ---
+Thumbs.db
+*.DS_Store
+
+# --- Environment ---
+*.env
+*.env.local
+
+# --- Node / React ---
+node_modules/
+dist/
+build/
+
+# --- Yarn / NPM ---
+yarn-error.log
+npm-debug.log
+
+# --- Publish output ---
+publish/
+wwwroot/

@@ -1,0 +1,12 @@
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\bin\Debug\net8.0\UserService.Common.deps.json
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\bin\Debug\net8.0\UserService.Common.dll
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\bin\Debug\net8.0\UserService.Common.pdb
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\obj\Debug\net8.0\UserService.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\obj\Debug\net8.0\UserService.Common.AssemblyInfoInputs.cache
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\obj\Debug\net8.0\UserService.Common.AssemblyInfo.cs
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\obj\Debug\net8.0\UserService.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\obj\Debug\net8.0\UserService.Common.dll
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\obj\Debug\net8.0\refint\UserService.Common.dll
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\obj\Debug\net8.0\UserService.Common.pdb
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\obj\Debug\net8.0\ref\UserService.Common.dll
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Common\obj\Debug\net8.0\UserService.Common.csproj.AssemblyReference.cache

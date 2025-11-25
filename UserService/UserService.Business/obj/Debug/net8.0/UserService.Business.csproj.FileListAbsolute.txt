@@ -1,0 +1,17 @@
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\bin\Debug\net8.0\UserService.Business.deps.json
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\bin\Debug\net8.0\UserService.Business.dll
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\bin\Debug\net8.0\UserService.Business.pdb
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\bin\Debug\net8.0\UserService.Common.dll
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\bin\Debug\net8.0\UserService.Data.dll
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\bin\Debug\net8.0\UserService.Common.pdb
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\bin\Debug\net8.0\UserService.Data.pdb
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.csproj.AssemblyReference.cache
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.AssemblyInfoInputs.cache
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.AssemblyInfo.cs
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\obj\Debug\net8.0\UserServ.22E026EB.Up2Date
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.dll
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\obj\Debug\net8.0\refint\UserService.Business.dll
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\obj\Debug\net8.0\UserService.Business.pdb
+C:\Users\Vlada\Desktop\diplomski\UserService\UserService.Business\obj\Debug\net8.0\ref\UserService.Business.dll
